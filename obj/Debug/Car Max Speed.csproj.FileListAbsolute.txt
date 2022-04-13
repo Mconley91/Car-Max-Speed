@@ -1,0 +1,8 @@
+C:\Users\Onshore\source\repos\Car Max Speed\bin\Debug\Car Max Speed.exe.config
+C:\Users\Onshore\source\repos\Car Max Speed\bin\Debug\Car Max Speed.exe
+C:\Users\Onshore\source\repos\Car Max Speed\bin\Debug\Car Max Speed.pdb
+C:\Users\Onshore\source\repos\Car Max Speed\obj\Debug\Car Max Speed.csproj.AssemblyReference.cache
+C:\Users\Onshore\source\repos\Car Max Speed\obj\Debug\Car Max Speed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onshore\source\repos\Car Max Speed\obj\Debug\Car Max Speed.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\Car Max Speed\obj\Debug\Car Max Speed.exe
+C:\Users\Onshore\source\repos\Car Max Speed\obj\Debug\Car Max Speed.pdb
